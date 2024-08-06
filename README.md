@@ -8,7 +8,7 @@ Specifically, you can find:
 * an [image](stable_diffusion.webp) generated using Stable Diffusion from one of Fred Hockley's records of spiritual visions
 * a [plot of the most frequent places](places.png) contained in Rosa Parks' papers
 * a [plot of the most frequent person names](people.png) references in Rosa Parks' papers
-* a [social network](people_network.html) that shows connection between personalities in Rosa Parks' papers based on text co-occurence.
+* a [social network](https://sntcristian.github.io/dh_at_loc/people_network.html) that shows connection between people in 100 randomly sampled documents.
 
 This repository contains material that can be used for didactic purposes.
 There is no intention to use the material in this repository to support scholarly statements.
